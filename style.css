@@ -1,0 +1,31 @@
+#logo{
+    width: 90px;
+}
+
+.navbar-light{
+    background-color: #e3f2fd;
+}
+
+.carousel-inner{
+    height: 500px;
+}
+.container
+{
+    margin-bottom: 20px;
+}
+
+.btn{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.delivery{
+    width: 30px;
+}
+
+.buttons a{
+    text-decoration: none;
+}
