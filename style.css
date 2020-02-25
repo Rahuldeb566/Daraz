@@ -70,3 +70,7 @@
 .row{
     margin-top: 10px;
 }
+
+.col-md-2{
+    padding: 10px ;
+}
